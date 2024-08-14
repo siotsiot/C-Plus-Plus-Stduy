@@ -10,7 +10,7 @@ int main()
     cin >> f_temp;
 
     c_temp = (5.0 / 9.0) * (f_temp - 32.0);
-    cout << "섭씨온도는 " << c_temp << "입니다.\n";
+    cout << "섭씨온도는 " << c_temp << "도입니다.\n";
     
 	return 0;
 }
